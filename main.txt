@@ -1,2 +1,0 @@
-Title: git for Everyone
-subtitle: Hello how are you
